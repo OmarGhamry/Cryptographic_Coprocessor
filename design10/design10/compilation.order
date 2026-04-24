@@ -1,0 +1,14 @@
+.\src\Nonlinear_LUT.vhd
+.\src\LU_Operation_Unit.vhd
+.\src\LUT_tb.vhd
+.\src\FullAdder.vhd
+.\src\ALU.vhd
+.\src\ALU_tb.vhd
+.\src\Shifter.vhd
+.\src\Shifter_tb.vhd
+.\src\combinational_logic.vhd
+.\src\combinational_tb.vhd
+.\src\register_file.vhd
+.\src\register_file_tb.vhd
+.\src\CoProcessor.vhd
+.\src\CoProcessor_tb.vhd

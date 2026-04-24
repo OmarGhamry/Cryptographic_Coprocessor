@@ -1,0 +1,24 @@
+elbread.dll ver. 1.0.5.365 Fri Apr 24 21:22:06 2026
+
+
+-----------------------------------------
+Entity          | Architecture | Library
+-----------------------------------------
+coprocessor_tb  | sim          | design10
+coprocessor     | cop          | design10
+combinational   | com          | design10
+reg_file        | behaviour    | design10
+opunit          | opu          | design10
+alu             | bhv          | design10
+shifter         | sft          | design10
+nonlinear_lut   | rtl          | design10
+fa              | adder        | design10
+-----------------------------------------
+
+-------------------------
+Package         | Library
+-------------------------
+standard        | std
+std_logic_1164  | ieee
+numeric_std     | ieee
+-------------------------

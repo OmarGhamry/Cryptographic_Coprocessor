@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+design10=.\design10\design10.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+design10=1

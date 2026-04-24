@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\design10\library.cfg"  -j "c:\My_Designs\design10\design10\projlib.cfg"  -d "c:\My_Designs\design10\design10\compile\"  -work design10 -dbg -e 100 "c:\My_Designs\design10\design10\src\CoProcessor_tb.vhd" 

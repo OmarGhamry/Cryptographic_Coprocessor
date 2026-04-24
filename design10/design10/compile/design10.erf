@@ -1,0 +1,5 @@
+MESSAGE "File: c:\My_Designs\design10\design10\src\CoProcessor_tb.vhd" 
+MESSAGE "Compile Entity "CoProcessor_tb"" 
+MESSAGE "Entity `CoProcessor_tb' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "sim" of Entity "CoProcessor_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

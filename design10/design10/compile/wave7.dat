@@ -1,0 +1,15 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+$ENDTIME 500000
+I 1 "a#29#std_logic_vector(15 downto 0)1 ricd15 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS S 65 1 16 ABUS
+$SC 1-61/4
+$BUS S +69 1 16 BBUS
+$SC 66-+60/4
+I 3 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S +21 3 4 ALU_ctrl
+$SC 131-+12/4
+$BUS S +69 1 16 ALU_OP
+$SC 148-+60/4
+$ENDWAVE

@@ -1,0 +1,77 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=design10
+
+[Library]
+design10=.\design10.lib
+
+[$LibMap$]
+design10=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/Nonlinear_LUT.vhd=-1
+/LU_Operation_Unit.vhd=-1
+/LUT_tb.vhd=-1
+/Waveform_LUT.awf=-1
+/FullAdder.vhd=-1
+/ALU.vhd=-1
+/ALU_tb.vhd=-1
+/Waveform_ALU.awf=-1
+/Shifter.vhd=-1
+/Shifter_tb.vhd=-1
+/Waveform_shifter.awf=-1
+/combinational_logic.vhd=-1
+/combinational_tb.vhd=-1
+/Waveform_Combinational.awf=-1
+/register_file.vhd=-1
+/register_file_tb.vhd=-1
+/Waveform_reg_file.awf=-1
+/CoProcessor.vhd=-1
+/CoProcessor_tb.vhd=-1
+/Waveform_CoProcessor.awf=-1
+
+[Files.Data]
+.\src\Nonlinear_LUT.vhd=VHDL Source Code
+.\src\LU_Operation_Unit.vhd=VHDL Source Code
+.\src\LUT_tb.vhd=VHDL Source Code
+.\src\Waveform_LUT.awf=Waveform File
+.\src\FullAdder.vhd=VHDL Source Code
+.\src\ALU.vhd=VHDL Source Code
+.\src\ALU_tb.vhd=VHDL Source Code
+.\src\Waveform_ALU.awf=Waveform File
+.\src\Shifter.vhd=VHDL Source Code
+.\src\Shifter_tb.vhd=VHDL Source Code
+.\src\Waveform_shifter.awf=Waveform File
+.\src\combinational_logic.vhd=VHDL Source Code
+.\src\combinational_tb.vhd=VHDL Source Code
+.\src\Waveform_Combinational.awf=Waveform File
+.\src\register_file.vhd=VHDL Source Code
+.\src\register_file_tb.vhd=VHDL Source Code
+.\src\Waveform_reg_file.awf=Waveform File
+.\src\CoProcessor.vhd=VHDL Source Code
+.\src\CoProcessor_tb.vhd=VHDL Source Code
+.\src\Waveform_CoProcessor.awf=Waveform File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=coprocessor_tb|sim|0  
+ShowHide=ShowTopLevel
+Selected=
